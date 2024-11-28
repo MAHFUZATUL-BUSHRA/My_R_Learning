@@ -1,0 +1,8 @@
+Hey everyone. So you are about to create a personal website for yourself. But for that, you need to know the basics of some pre-requisites:
+
+1. Basics of Git and Github: https://guides.github.com/introduction/git-handbook/
+2. Basics of Blogdown: https://bookdown.org/yihui/blogdown/
+
+When you are completed with basics, you can finally proceed with the development of your personal website.
+
+Guide: https://www.storybench.org/how-to-build-a-website-with-blogdown-in-r/

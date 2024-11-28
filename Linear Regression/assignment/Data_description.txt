@@ -1,0 +1,17 @@
+Problem Statement
+
+A US automobile company “Himika Auto” aspires to enter the Bangladeshi market by setting up their manufacturing unit here and producing cars locally to give competition to their Asian Counterparts. 
+
+They have contracted an automobile consulting company to understand the factors on which the pricing of the car depends. Specifically, they want to understand the factors affecting the pricing of cars in the Bangladesh market, since those may be very different from the US market. 
+So now the consulting firm is looking for a data scientist who can solve their issues and create a good prediction model. 
+
+So your task will be:
+
+1. Clean the dataset first. Handle the NA values. You can either predict them or simply delete them. Finding out ways to predict the NA values will yield to higher points. 
+2. Before going into the model the consulting firm also wants to get some insight into the dataset. So, your task will, to explore the dataset and create some beautiful and useful visualization to understand the dataset and relations between the variables. 
+3. Check the assumptions of the linear regression model (specially multicollinearity). Check if the model is suitable to apply a linear regression model. 
+4. Find out which variables are significant in predicting the price of a car and how well those variables describe the price of a car based on various market surveys. 
+5. Optimize your model and remove any unnecessary parameters. 
+6. Show the model summary and compare the predicted values with the actual and give solid background why your model is good. 
+
+So, you will be hired for solving this issue of this consultant firm. We are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars and the marketing and business strategy to satisfy the consumers and meet certain price levels. Further, the model will be a very good way for management to understand the pricing dynamics of a new market.

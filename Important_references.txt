@@ -1,0 +1,5 @@
+Reference sites:
+1. https://www.tidymodels.org/
+2. https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/
+3. http://hadley.nz/
+4. https://www.r-graph-gallery.com/
